@@ -13,7 +13,7 @@
     "url": "git+https://github.com/h2y/apis.git"
   },
   "dependencies": {
-    "cheerio": "~0.22.0",
+    "cheerio": "~1.0.0",
     "jdenticon": "^1.4.0",
     "restify": "^4.1.1"
   }
